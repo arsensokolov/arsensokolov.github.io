@@ -1,0 +1,40 @@
+a,
+a:focus,
+a:hover {
+    color: #005bbb;
+}
+
+html,
+body {
+    height: 100%;
+    background-color: #272936;
+}
+
+body {
+    display: -ms-flexbox;
+    display: flex;
+    color: #feffff;
+}
+
+.masthead {
+    margin-bottom: 2rem;
+}
+
+.masthead-brand {
+  margin-bottom: 0;
+}
+
+.my-time {
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.cover-container {
+    max-width: 42em;
+}
+
+.cover {
+    padding: 0 1.5rem;
+    transform: rotate(3deg);
+    -ms-transform: rotate(3deg);
+    -webkit-transform: rotate(3deg);
+}
